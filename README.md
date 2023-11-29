@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dabaghi-anass/anassdabaghi" alt="anassdabaghi">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dabaghi-anass" alt="anassdabaghi">
 <span></span>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
