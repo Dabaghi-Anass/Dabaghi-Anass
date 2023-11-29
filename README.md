@@ -1,5 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dabaghi-anass" alt="anassdabaghi">
-<span></span>
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dabaghi-anass/Dabaghi-anass" alt="anassdabaghi">-->
+<span></span> 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Anass+Dabaghi;Welcome+To+My+Profile;Enjoy+Your+Time+%F0%9F%91%8B&center=true&size=30">
