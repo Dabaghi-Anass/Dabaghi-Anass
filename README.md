@@ -26,7 +26,7 @@ I have developed a deep understanding and expertise in algorithms and web genera
 
   <p align="center">📫 How to reach me 👇</p>
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/anass-dabaghi-5a51141b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="https://anass-dabaghi.vercel.app/"><img src="https://img.shields.io/badge/my_portfolio-anass-yellow.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYzIiBoZWlnaHQ9IjE0MSIgdmlld0JveD0iMCAwIDE2MyAxNDEiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik04MS41IDBMMTIyLjI1IDcwLjVMMTYzIDE0MUg4MS41SDBMNDAuNzUgNzAuNUw4MS41IDBaIiBmaWxsPSIjRkZDMjAwIi8+CjxwYXRoIGQ9Ik04MS41IDU4TDEwNS43NSA5OS41TDEzMCAxNDFIODEuNUgzM0w1Ny4yNSA5OS41TDgxLjUgNThaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K" height=23></a>
+<p align="center"> <a href="https://www.linkedin.com/in/anass-dabaghi-5a51141b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="https://www.anass-dabaghi.tech/"><img src="https://img.shields.io/badge/my_portfolio-anass-yellow.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYzIiBoZWlnaHQ9IjE0MSIgdmlld0JveD0iMCAwIDE2MyAxNDEiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik04MS41IDBMMTIyLjI1IDcwLjVMMTYzIDE0MUg4MS41SDBMNDAuNzUgNzAuNUw4MS41IDBaIiBmaWxsPSIjRkZDMjAwIi8+CjxwYXRoIGQ9Ik04MS41IDU4TDEwNS43NSA5OS41TDEzMCAxNDFIODEuNUgzM0w1Ny4yNSA5OS41TDgxLjUgNThaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K" height=23></a>
 <hr>
 
 <h2  align="center">🐦 Github Statistics </h2>
